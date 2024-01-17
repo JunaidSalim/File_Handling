@@ -1,9 +1,6 @@
 # File-Handling
 This C++ program reads polynomial data from a file, performs coefficient addition, and outputs the result with additional information.
 
-Polynomial Coefficient Addition Program
-Developed by Junaid Saleem
-
 Introduction:
 This is a C++ program that performs addition on polynomial coefficients read from a file. It calculates the total time taken for the addition operation, counts the number of non-zero values, and writes the result to an output file. The program utilizes arrays as the data structure and provides an option to display the data from the input file.
 
